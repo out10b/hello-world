@@ -1,4 +1,6 @@
 # hello-world
 test repo
 
-The world is a vampire
+zzz
+
+Got 15 minutes and want to learn Git?
